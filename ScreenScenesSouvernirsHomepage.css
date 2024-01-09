@@ -1,0 +1,40 @@
+body {
+    background: #001b2b;
+    font-family: serif, platino;
+}
+
+.TopBar {
+    color: #ffffff; 
+    background-color: #277a39; 
+    padding: 2px;
+    margin: 15px;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.header {
+    color: #277a39;	
+    text-align: center;
+    padding: 10px;
+}
+
+.menu {
+    color: #277a39; 
+    text-align: center;
+    padding: 10px;
+}
+
+.paragraph {
+    color: #277a39; 
+	text-align: center;
+    margin: 0px;
+}
+
+.accent {
+    color: #ffffff; 
+    background-color: #277a39; 
+    padding: 10px;
+    margin: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
